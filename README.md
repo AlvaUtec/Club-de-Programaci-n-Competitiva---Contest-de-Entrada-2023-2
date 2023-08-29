@@ -1,4 +1,4 @@
-# Club-de-Programaci-n-Competitiva---Contest-de-Entrada-2023-2
+# Club-de-Programación-Competitiva | Contest-de-Entrada-2023-2: Corazón Delator
 
 Estas son las souciones de las preguntas que se tomaron durante el contest de entrada.
 
